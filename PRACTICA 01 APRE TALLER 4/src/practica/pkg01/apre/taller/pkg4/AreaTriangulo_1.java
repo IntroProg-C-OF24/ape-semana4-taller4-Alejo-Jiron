@@ -16,8 +16,8 @@ public class AreaTriangulo_1 {
         alturaTriangulo = teclado.nextDouble();
         areaTriangulo = (alturaTriangulo * baseTriangulo) /2;
         System.out.println("El area del Triangulo es:" + areaTriangulo);
-        //HECHO POR ALEJANDRO JIRON :D
+        //HECHO POR ALEJANDRO JIRON :D 
         
     }
-    }
+}
 
