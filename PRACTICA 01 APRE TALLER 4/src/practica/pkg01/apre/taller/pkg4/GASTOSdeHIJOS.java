@@ -1,5 +1,9 @@
+/*
+Algoritmo 2 
+Generar un algoritmo que permite ingresar los gastos de tres hijos de un padre de familia; 
+Calcular y mostrar el total de gastos de los hijos del padre de familia.
+*/
 package practica.pkg01.apre.taller.pkg4;
-import java.time.Clock;
 import java.util.Scanner;
 public class GASTOSdeHIJOS {
     public static void main(String[] args) {
